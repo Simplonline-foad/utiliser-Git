@@ -4,7 +4,6 @@ Pour pouvoir mettre le code que vous avez effectué en local sur Github, il vous
 
 Celles-ci commencent toutes par `git` :
 
-
 `git init`
 
 Commande qui initialise un nouveau dépôt Git. Seulement après avoir entré cette commande, il accepte les commandes Git qui suivent.
@@ -46,7 +45,7 @@ C'est sans aucun doute la commande la plus importante de Git !
 
 Après avoir fait toute sorte de modification, vous saisissez ça afin de prendre un “_instantané_” du dépôt. 
 
-Généralement cela s’écrit sous la forme `git commit -m “nom de votre commit“`. Le `-m` indique que la section suivante de la commande devrait être lue comme un message.
+Généralement cela s’écrit sous la forme _git commit -m "nom de votre commit"_. Le _-m_ indique que la section suivante de la commande devrait être lue comme un message.
 
 `git branch`
 
