@@ -53,7 +53,7 @@ Vous travaillez avec plusieurs collaborateurs et voulez produire des modificatio
 
 Cette commande vous permet de construire une nouvelle branche, ou une timeline de commits, de modifications et d’ajouts de fichiers qui sont complètement les vôtres. 
 
-Votre titre va après la commande. Par exemple, si vous vouliez créer une nouvelle branche appelée “activité-fil-rouge”, vous saisiriez git branch chats.
+Votre titre va après la commande. Par exemple, si vous vouliez créer une nouvelle branche appelée “_activité-fil-rouge_”, vous saisiriez _git branch activité-fil-rouge_.
 
 `git checkout` 
 
